@@ -54,10 +54,10 @@ The Smart Marketing Assistant is an innovative project that leverages AI agents 
   The project uses pre-trained AI models. You can replace these models with your own by changing llm = your_model in the main.py file.
 
 ## Project Structure
-- requirements.txt: Lists required Python dependencies.
-- main.py: Main script to run the AI agents.
-- agents: (Optional) Folder containing code for individual AI agents (market research, content strategy, etc.)
-- config.py: (Optional) Configuration file for Crew AI project and API key.
+- `requirements.txt:` Lists required Python dependencies.
+- `main.py:` Main script to run the AI agents.
+- `agents:` (Optional) Folder containing code for individual AI agents (market research, content strategy, etc.)
+- `config.py:` (Optional) Configuration file for Crew AI project and API key.
 
 ## Contributing
 
