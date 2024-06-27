@@ -3,6 +3,8 @@
 ## Overview
 The Smart Marketing Assistant is an innovative project that leverages AI agents to automate tasks within an Instagram marketing workflow. This project aims to streamline and optimize various marketing activities, providing users with a powerful tool to enhance their social media strategies.
 
+## Workflow
+![](https://github.com/praj2408/Smart-Marketing-Assistant-using-Ai-Agents/blob/main/docs/crew2-instagram.jpg)
 ## Features
 - **Automated Content Creation**: Generate engaging posts and stories using AI-powered content creation tools.
 - **Hashtag Optimization**: Analyze and suggest the most effective hashtags to reach a wider audience.
