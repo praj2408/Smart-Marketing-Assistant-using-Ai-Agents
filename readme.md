@@ -1,4 +1,4 @@
-# Smart Marketing Assistant using AI Agents
+# Smart Marketing Assistant using Crew AI
 
 ## Overview
 The Smart Marketing Assistant is an innovative project that leverages AI agents to automate tasks within an Instagram marketing workflow. This project aims to streamline and optimize various marketing activities, providing users with a powerful tool to enhance their social media strategies.
